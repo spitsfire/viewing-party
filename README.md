@@ -241,7 +241,7 @@ In `main.py`, there should be a function named `get_watched_avg_rating`. This fu
 
 2. The next two tests are about a `get_most_watched_genre()` function.
 
-In `main.py`, there should be a function named `get_watched_avg_rating`. This function should...
+In `main.py`, there should be a function named `get_most_watched_genre`. This function should...
 
 - take one parameter: `user_data`
   - the value of `user_data` will be a dictionary with a `"watched"` list of movie dictionaries. Each movie dictionary has a key `"genre"`.
